@@ -1,0 +1,23 @@
+import pygame
+#Tile sprite references
+#Floor tiles
+FT1="Tile Sprites/tile032.png"
+FT2="Tile Sprites/tile071.png"
+FT3="Tile Sprites/tile070.png"
+#Back walls
+BW1="Tile Sprites/tile004.png"
+#Right walls
+RW1="Tile Sprites/tile005.png"
+#Left walls
+LW1="Tile Sprites/tile000.png"
+#Front walls
+FW1="Tile Sprites/tile044.png"
+#Left corners
+LC1="Tile Sprites/tile040.png"
+#Right corners
+RC1="Tile Sprites/tile045.png"
+#Corner tiles
+CT1="Tile Sprites/tile054.png"
+CT2="Tile Sprites/tile053.png"
+#Empty tile
+ET1="Tile Sprites/tile078.png"
