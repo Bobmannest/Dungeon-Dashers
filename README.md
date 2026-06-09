@@ -1,4 +1,4 @@
-  This is an old project which was my first attempt at making a 2D top down roguelite game.
+  A 2D top down roguelite game.
 
   Features:
   - Infinitely scaling levels
